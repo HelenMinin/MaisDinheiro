@@ -1,7 +1,5 @@
 using System;
-using System.Reflection.Metadata.Ecma335;
 using MaisDinheiro.Enums;
-using Microsoft.AspNetCore.Http;
 
 namespace MaisDinheiro.Models
 {

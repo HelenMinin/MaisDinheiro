@@ -1,8 +1,6 @@
 using System;
-using System.Collections.Generic;
 using System.Threading.Tasks;
 using MaisDinheiro.Data;
-using MaisDinheiro.Enums;
 using MaisDinheiro.Models;
 using MaisDinheiro.ViewModels;
 using Microsoft.AspNetCore.Authorization;
